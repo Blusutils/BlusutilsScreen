@@ -1,0 +1,5 @@
+{
+    "net.blusutils.test": "Test",
+    "net.blusutils.childGUI.configure.buttonOpen": "Configure",
+    "net.blusutils.childGUI.configure.buttonConfirm": "Done"
+}

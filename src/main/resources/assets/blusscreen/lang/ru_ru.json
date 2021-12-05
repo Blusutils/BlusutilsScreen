@@ -1,0 +1,5 @@
+{
+    "net.blusutils.test": "Тестовый",
+    "net.blusutils.childGUI.configure.buttonOpen": "Настроить",
+    "net.blusutils.childGUI.configure.buttonConfirm": "Готово"
+}

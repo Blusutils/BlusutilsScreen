@@ -24,7 +24,7 @@ public class OpenGUI extends Module {
     public void tick() {
         MinecraftClient instance = MinecraftClient.getInstance();
         setEnabled(false);
-        instance.openScreen(new TestGUI());
+        instance.openScreen(new TestGUI(instance.currentScreen));
     }
 
     @Override
